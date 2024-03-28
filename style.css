@@ -3,4 +3,10 @@
     margin-right: auto;
     width: 400px;
     text-align: center;
+    background-color:#F0D5B0;
+    padding: 20px;
+    border-radius: 10px;
+}
+.h1 h2{
+    color: red;
 }
